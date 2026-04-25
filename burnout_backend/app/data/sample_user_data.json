@@ -1,0 +1,25 @@
+{
+  "average_sleep_hours": 6.2,
+  "work_hours": 8.5,
+  "class_hours": 2.0,
+  "assignment_hours": 2.5,
+  "break_minutes": 35,
+  "hobby_minutes": 20,
+  "commute_hours": 1.5,
+  "meeting_count": 5,
+  "deadline_count": 3,
+  "hobbies": [
+    "drawing",
+    "basketball"
+  ],
+  "stress_relievers": [
+    "deep breathing",
+    "listening to music"
+  ],
+  "medication_reminders": [
+    "9:00 AM",
+    "8:00 PM"
+  ],
+  "medication_info": "General reminders only. This field is not used for diagnosis."
+}
+
