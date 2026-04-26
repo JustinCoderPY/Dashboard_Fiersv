@@ -1,0 +1,6 @@
+timestamp,sleep_hours,work_study_hours,class_hours,assignment_hours,break_minutes,hobby_minutes,commute_minutes,meeting_count,deadline_count,mood,hobbies,stress_relievers,burnout_risk_percentage,risk_level,sleep_balance_percentage,workload_pressure_percentage,recovery_balance_percentage,schedule_density_percentage
+2026-04-25T19:38:13.497974+00:00,6.0,10.0,0.0,0.0,20,15,60,0,4,drained,"[""walking"", ""music""]","[""walking"", ""music""]",61.26,High Risk,75.0,100.0,29.17,40.33
+2026-04-25T19:38:58.105158+00:00,7.5,6.0,0.0,0.0,50,15,45,0,2,okay,"[""walking"", ""music"", ""journaling"", ""drawing""]","[""walking"", ""music"", ""journaling"", ""drawing""]",34.67,Moderate Risk,93.75,60.0,54.17,22.25
+2026-04-25T19:46:14.649388+00:00,5.5,10.0,0.0,0.0,20,15,60,0,4,drained,"[""walking"", ""music""]","[""walking"", ""music""]",63.13,High Risk,68.75,100.0,29.17,40.33
+2026-04-25T20:10:00.704304+00:00,7.5,7.5,0.0,0.0,50,45,40,0,4,okay,"[""walking"", ""music"", ""journaling"", ""deep breathing""]","[""walking"", ""music"", ""journaling"", ""deep breathing""]",35.22,Moderate Risk,93.75,75.0,79.17,37.58
+2026-04-25T21:13:20.529404+00:00,5.0,7.0,0.0,0.0,30,60,15,0,2,okay,"[""walking"", ""music""]","[""walking"", ""music""]",41.21,Moderate Risk,62.5,70.0,75.0,18.08
